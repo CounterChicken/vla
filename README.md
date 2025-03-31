@@ -63,7 +63,7 @@ Getting a Visually Guided Latent Actions pipeline up and running requires the fo
    
 4. Using your visually guided latent actions model to assist a user in teleoperating the robot.
 
-In this entire repository, we assume the robot you are using is teh Franka Emika Panda Arm, controlled via the provided
+In this entire repository, we assume the robot you are using is the Franka Emika Panda Arm, controlled via the provided
 libfranka C++ controllers.
 
 #### Pretraining a YOLO-v5 Detector
